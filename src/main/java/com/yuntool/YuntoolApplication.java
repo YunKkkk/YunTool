@@ -1,4 +1,4 @@
-package com.yun.yuntool;
+package com.yuntool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

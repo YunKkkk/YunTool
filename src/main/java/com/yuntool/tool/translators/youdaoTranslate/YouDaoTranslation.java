@@ -1,4 +1,4 @@
-package com.yun.tool.translators.youdaoTranslate;
+package com.yuntool.tool.translators.youdaoTranslate;
 
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;

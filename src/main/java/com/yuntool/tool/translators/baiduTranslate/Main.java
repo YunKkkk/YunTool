@@ -1,4 +1,4 @@
-package com.yun.tool.translators.baiduTranslate;
+package com.yuntool.tool.translators.baiduTranslate;
 
 
 import com.alibaba.fastjson.JSON;
