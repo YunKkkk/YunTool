@@ -71,7 +71,7 @@ public class TongYiUtil {
             httpURLConnection.setRequestProperty("Content-Type", "application/json; utf-8");
             httpURLConnection.setRequestProperty("Accept", "application/json");
 
-            String apiKey = "sk-";
+            String apiKey = "sk-05177c3dc5c04be4a30919a227aeaace";
             String auth = "Bearer " + apiKey;
             httpURLConnection.setRequestProperty("Authorization", auth);
 

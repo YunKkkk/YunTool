@@ -1,0 +1,3 @@
+milvus:
+  host: localhost
+  port: 19530
